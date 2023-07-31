@@ -23,4 +23,4 @@
     ],
   },
 ];
-<AddressPicker areaData={areas}/>````
+<AddressPicker areaData={areas}/>
