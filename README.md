@@ -1,4 +1,5 @@
 本组件是基于react-native 开发的三级联动组件，也可更具自己的需要修改为四级或者五级
+
 **DEMO**
 ```
 const areas = [
